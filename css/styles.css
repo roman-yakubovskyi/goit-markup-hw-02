@@ -122,6 +122,11 @@ button {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  text-transform: capitalize;
+}
+
+.our-team-item {
+  background-color: #fff;
 }
 
 .our-team-subtitle {
